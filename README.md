@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herman</h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">Computer science student from Kazan</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=solarized_dark)
