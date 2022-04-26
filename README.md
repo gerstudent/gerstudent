@@ -5,7 +5,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gerstudent&theme=solarized_dark)
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <h3 aligh="left">Specialization:</h3>
 <p align="left"> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
