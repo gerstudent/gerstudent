@@ -1,11 +1,8 @@
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gerstudent&theme=solarized_dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerstudent&count_private=true&show_icons=true&theme=solarized-dark)
 
 <h2 align="letf">Languages and Tools</h2>
 <h3 aligh="left">Studying</h3>
