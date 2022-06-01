@@ -3,8 +3,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gerstudent&theme=solarized_dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzema1n&count_private=true&show_icons=true&theme=solarized-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerstudent&layout=compact&theme=solarized-dark&count_private=true)
 
 <h2 align="letf">Languages and Tools</h2>
 <h3 aligh="left">Studying</h3>
