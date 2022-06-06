@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Herman;Computer+science+student)](https://git.io/typing-svg)
+<p align="center">
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Herman;Computer+science+student)](https://git.io/typing-svg)
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=solarized_dark)
