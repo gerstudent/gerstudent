@@ -11,7 +11,7 @@
 <h3 aligh="left">👨‍🎓 Studying</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres" />
   </a>
 </p>
 
