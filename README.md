@@ -6,25 +6,25 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gerstudent&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gerstudent&theme=solarized_dark)
 
-<h2 align="center">👨‍💻 Skills</h2>
+<h2 align="left">👨‍💻 Skills</h2>
 
-<h3 aligh="center">👨‍🎓 Studying</h3>
-<p align="center">
+<h3 aligh="left">👨‍🎓 Studying</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres,c,vim" />
   </a>
 </p>
 
-<h3 aligh="center">💼 Work experience</h3>
-<p align="center">
+<h3 aligh="left">💼 Work experience</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,sqlite,react,js,html,css" />
   </a>
 </p>
 
 
-<h3 aligh="center">⚙️ Tools</h3>
-<p align="center">
+<h3 aligh="left">⚙️ Tools</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,vim,vscode" />
   </a>
