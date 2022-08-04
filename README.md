@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true?color=0082FF&lines=Hi+there%2C+I'm+Herman;Computer+science+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&color=0082FF&background=FFFFFF00&vCenter=true&height=60&lines=Hi+there%2C+I'm+Herman!;Computer+science+student" alt="Typing SVG" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=nord_dark)
