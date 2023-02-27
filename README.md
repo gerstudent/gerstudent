@@ -9,14 +9,14 @@
 
 <h2 align="left">👨‍💻 Skills</h2>
 
-<h3 aligh="left">👨‍🎓 Studying</h3>
+<h3 aligh="left">💼 Tech stack</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,django,postgres" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,postgres,c++" />
   </a>
 </p>
 
-<h3 aligh="left">💼 Work experience</h3>
+<h3 aligh="left">👨‍🎓 Work experience</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,sqlite,react,js,html,css" />
