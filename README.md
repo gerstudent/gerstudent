@@ -12,7 +12,7 @@
 <h3 aligh="left">💼 Tech stack</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,postgres,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,postgres,cpp" />
   </a>
 </p>
 
