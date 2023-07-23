@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=400&width=435&lines=Hi+there%2C+I%60m+Herman!;Enthusiastic+Python+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=400&width=435&lines=Hi+there%2C+I%60m+German!;Enthusiastic+Backend+developer)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=nord_dark)
@@ -14,6 +14,7 @@
 
 ### 💼 Tech stack
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
