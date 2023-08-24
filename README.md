@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=400&width=435&lines=Hi+there%2C+I%60m+German!;Enthusiastic+Backend+developer)](https://git.io/typing-svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerstudent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact with me
 
