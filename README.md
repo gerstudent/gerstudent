@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=400&width=435&lines=Hi+there%2C+I%60m+German!;Enthusiastic+Backend+developer)](https://git.io/typing-svg)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerstudent&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gerstudent&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gerstudent&theme=nord_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact with me
 
@@ -38,4 +33,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
