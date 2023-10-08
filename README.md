@@ -1,5 +1,3 @@
-## [CV](https://drive.google.com/drive/folders/1zPk8hrySUwSOVYdxwsHqG0DHc9ArRpN5?usp=drive_link)
-
 ## Skills
 
 ### Tech stack
