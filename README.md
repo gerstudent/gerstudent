@@ -1,3 +1,14 @@
+## Hi there, I'm German 👋 
+
+### Backend Developer & Applied CS Student
+
+- Have 3+ years experience of Backend Development.
+- I'm currently interested in Go, Cybersecurity and Web 3.0
+- Strong knowledges of Go, C++ and Python.
+- Good understanding of networks, protocols, network communication.
+- Confident knowledges of data structures and algorithms.
+- Experience with asynchronous systems, multitasking, multithreading.
+
 ## Skills
 
 ### Tech stack
