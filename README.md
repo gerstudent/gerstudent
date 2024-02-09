@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=650&color=2983FF&random=false&width=750&height=100&lines=Hi+there%2C+I'm+German!;Backend+developer+and+Computer+Science+student)](https://git.io/typing-svg)
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="250px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> Some facts about me</h3>
 </p>
