@@ -1,13 +1,15 @@
-## Hi there, I'm German 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1592F7&random=false&width=435&lines=Hi+there%2C+I'm+German!;Backend+developer+and+Computer+Science+student)](https://git.io/typing-svg)
 
-### Backend Developer & Applied CS Student
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> Some facts about me</h3>
+</p>
 
-- Have 3+ years experience of Backend Development.
-- I'm currently interested in Go, Cybersecurity and Web 3.0
-- Strong knowledges of Go, C++ and Python.
-- Good understanding of networks, protocols, network communication.
-- Confident knowledges of data structures and algorithms.
-- Experience with asynchronous systems, multitasking, multithreading.
+- 👔 Have 3+ years experience of Backend Development.
+- 📈 I'm currently interested in Go, Cybersecurity and Web 3.0
+- 🎓 Strong knowledge of Go, C++,Python, data structures and algorithms.
+- 📊 Experience with unit testing, message brokers, CI/CD, asynchronous systems.
+- I lead an active lifestyle, like to play volleyball, basketball, run marathons and ride bicycle.
 
 ## Skills
 
@@ -32,9 +34,12 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<details>
-<summary>Github stats</summary>
-  
+<!-------------->
+
+
+<h3><details>
+<summary>Github statistics</summary>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerstudent&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerstudent&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerstudent&theme=nord_dark)
@@ -42,3 +47,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gerstudent&theme=nord_dark)
 
 </details>
+</h3>
+
+<!-------------->
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
