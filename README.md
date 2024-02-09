@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1592F7&random=false&width=435&lines=Hi+there%2C+I'm+German!;Backend+developer+and+Computer+Science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=650&color=2983FF&random=false&width=750&height=100&lines=Hi+there%2C+I'm+German!;Backend+developer+and+Computer+Science+student)](https://git.io/typing-svg)
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
@@ -9,7 +9,7 @@
 - 📈 I'm currently interested in Go, Cybersecurity and Web 3.0
 - 🎓 Strong knowledge of Go, C++,Python, data structures and algorithms.
 - 📊 Experience with unit testing, message brokers, CI/CD, asynchronous systems.
-- I lead an active lifestyle, like to play volleyball, basketball, run marathons and ride bicycle.
+- 🚴 I lead an active lifestyle, like to play volleyball, basketball, run marathons and ride bicycle.
 
 ## Skills
 
