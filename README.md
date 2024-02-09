@@ -53,4 +53,4 @@
 
 <h1 align='center'>⚡️<i>Github Snake</i>⚡️</h1>
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gerstudent/gerstudent/blob/output/github-contribution-grid-snake.svg)
