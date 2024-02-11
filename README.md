@@ -11,6 +11,11 @@
 - 📊 Experience with unit testing, message brokers, CI/CD, asynchronous systems.
 - 🚴 I lead an active lifestyle, like to play volleyball, basketball, run marathons and ride bicycle.
 
+## Contacts
+
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/gerakolen)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gerakolen)
+
 ## Skills
 
 ### Tech stack
