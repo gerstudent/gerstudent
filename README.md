@@ -9,7 +9,7 @@
 - 📈 I'm currently interested in Go, Cybersecurity and Web 3.0
 - 🎓 Strong knowledge of Go, C++, Python, data structures and algorithms.
 - 📊 Experience with unit testing, message brokers, CI/CD, asynchronous systems.
-- 🚴 I lead an active lifestyle, like to play volleyball, basketball, run marathons and ride bicycle.
+- 🚴 I lead an active lifestyle, like to play volleyball, basketball, run marathons and ride a bicycle.
 
 ## Contacts
 
