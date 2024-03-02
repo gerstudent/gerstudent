@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=650&color=2983FF&random=false&width=750&height=100&lines=Hi+there%2C+I'm+German!;Backend+developer+and+Computer+Science+student)](https://git.io/typing-svg)
 
-<img align="right" height="250px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> Some facts about me</h3>
 </p>
@@ -13,7 +12,6 @@
 
 ## Contacts
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/gerakolen)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gerakolen)
 
 ## Skills
@@ -57,13 +55,3 @@
 
 </details>
 </h3>
-
-<!-------------->
-
-<h1 align='center'>⚡️<i>Github snake</i>⚡️</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gerstudent/gerstudent/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gerstudent/gerstudent/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gerstudent/gerstudent/output/github-contribution-grid-snake.svg">
-</picture>
