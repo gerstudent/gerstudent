@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=650&color=2983FF&random=false&width=750&height=100&lines=Hi+there%2C+I'm+German!;Backend+developer+and+Computer+Science+student)](https://git.io/typing-svg)
+## Hi there, I`m German! 👋
 
-<p align="center">
-  <h3> Some facts about me</h3>
-</p>
+## Some facts about me</h3>
 
 - 👔 Have 3+ years experience of Backend Development.
 - 📈 I'm currently interested in Go, Cybersecurity and Web 3.0
