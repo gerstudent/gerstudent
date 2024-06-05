@@ -1,4 +1,4 @@
-## Hi there, I`m German! 👋
+## Hi there, I`m German! Young data analyst 📊
 
 ## Contacts
 
