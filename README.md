@@ -1,4 +1,4 @@
-## Hi there, I`m German! Young data analyst 📊
+## Hi there, I'm German! Young data analyst 📊
 
 ### Tech stack
 
