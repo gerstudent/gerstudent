@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm German!
 - 📊 I'm a Data Scientist with extensive knowledge in data collection, processing and visualization
 - 📫 You can contact me via Telegram: @gerakolen
-- 👨‍🎓 I'm currently studying for a bachelor's degree in Computer Science
+- 👨‍🎓 I'm currently studying for a bachelor's degree in Applied Computer Science
 - 👩‍💻 My tech stack:
   - Python (Pandas, NumPy, Matplotlib, seaborn, scikit-learn)
   - PySpark
