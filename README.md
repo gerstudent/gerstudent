@@ -1,9 +1,1 @@
-- 👋 Hi there, I'm German!
-- 📊 I'm a Data Analyst with extensive knowledge in data collection, processing and visualization
-- 📫 You can contact me via Telegram: @gerakolen
-- 👨‍🎓 I'm currently studying for a bachelor's degree in Applied Computer Science
-- 👩‍💻 My tech stack:
-  - Python (Pandas, NumPy, Matplotlib, Plotly)
-  - PostgreSQL, MySQL, Clickhouse
-  - Tableau, Power BI
-  - Linux (Ubuntu)
+
